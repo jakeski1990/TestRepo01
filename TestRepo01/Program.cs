@@ -10,6 +10,9 @@ namespace TestRepo01
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Test Repo 1");
+            Console.ReadLine();
         }
     }
 }
